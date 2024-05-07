@@ -34,8 +34,5 @@ Skills: Mern /Javascript /Fron End /Back End /Devops
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arefin5&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arefin5)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arefin5)  
-
-![Profile views](https://gpvc.arturio.dev/arefin5)  
