@@ -37,6 +37,6 @@ Skills: REACT / JS / HTML / CSS/ PHP /PYTHON
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arefin5)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nazim9290)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arefin5)  
 
-![Profile views](https://gpvc.arturio.dev/nazim9290)  
+![Profile views](https://gpvc.arturio.dev/arefin5)  
