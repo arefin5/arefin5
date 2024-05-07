@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, my name is Arefin Talukder
-#### I am a webdeveloper
+#### I am a web developer & devops expert
 ![I am a webdeveloper](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-9/133526836_2698664160374074_7683281515060018194_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=19026a&_nc_ohc=e10jSkvJlaEAX-LYVuI&_nc_ht=scontent-nrt1-1.xx&oh=dfa96fa84cfe76347c180a18dd57864f&oe=6173890E)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: REACT / JS / HTML / CSS/ PHP /PYTHON
+Skills: Mern /Javascript /Fron End /Back End /Devops
 
-- 🔭 I’m currently working on React project 
-- 🌱 I’m currently learning React 
+- 🔭 I’m currently working on devops  project 
 - 💬 Ask me about Web development 
 
 
@@ -35,7 +34,6 @@ Skills: REACT / JS / HTML / CSS/ PHP /PYTHON
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arefin5&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arefin5)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arefin5)  
 
