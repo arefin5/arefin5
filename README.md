@@ -31,11 +31,11 @@ Skills: REACT / JS / HTML / CSS/ PHP /PYTHON
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nazim9290)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazim9290)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arefin5)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazim9290&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arefin5&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nazim9290)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arefin5)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nazim9290)  
 
