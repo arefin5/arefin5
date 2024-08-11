@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, my name is Arefin Talukder
 #### I am a web developer & devops expert
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akileshrao&label=Profile%20views&color=0e75b6&style=flat" alt="akileshrao" /> </p>
 ![I am a webdeveloper](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-9/133526836_2698664160374074_7683281515060018194_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=19026a&_nc_ohc=e10jSkvJlaEAX-LYVuI&_nc_ht=scontent-nrt1-1.xx&oh=dfa96fa84cfe76347c180a18dd57864f&oe=6173890E)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
